@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1185 770" style="enable-background:new 0 0 1185 770;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#005333;}
+	.st1{fill:none;}
+	.st2{fill:#E9CE2C;}
+	.st3{font-family:'Georgia';}
+	.st4{font-size:111.1013px;}
+	.st5{font-size:77.0134px;}
+	.st6{fill:#E9CE2C;stroke:#005333;stroke-width:2;stroke-miterlimit:10;}
+	.st7{fill:#E9CE2C;stroke:#005333;stroke-width:6;stroke-miterlimit:10;}
+</style>
+<rect y="-0.4" class="st0" width="1185" height="770.3"/>
+<rect x="75" y="442.7" class="st1" width="1034" height="241.5"/>
+<text id="FRICK" transform="matrix(1 0 0 1 157.7671 526.6787)" class="st2 st3 st4">FRICKLEY PARK</text>
+<rect x="75" y="543.7" class="st1" width="1034" height="241.5"/>
+<text transform="matrix(1 0 0 1 312.376 601.9092)" class="st2 st3 st5">HORSE TRIALS</text>
+<g>
+	<polygon class="st6" points="318.7,424.9 863.5,424.9 863.5,243.8 781.8,191.2 414.9,191.2 318.7,242.2 	"/>
+	<line class="st7" x1="320.5" y1="331.2" x2="865.3" y2="331.2"/>
+	<polygon class="st6" points="477.6,241.4 477.6,424.9 702.9,424.9 702.8,241.4 592,173.9 	"/>
+	<line class="st7" x1="319.6" y1="243" x2="864.4" y2="243"/>
+	<rect x="352.3" y="264.4" class="st6" width="34.5" height="44.4"/>
+	<rect x="414" y="264.4" class="st6" width="34.5" height="44.4"/>
+	<rect x="513.9" y="264.4" class="st6" width="34.5" height="44.4"/>
+	<rect x="575.7" y="264.4" class="st6" width="34.5" height="44.4"/>
+	<rect x="641" y="264.4" class="st6" width="34.5" height="44.4"/>
+	<rect x="742.7" y="264.4" class="st6" width="34.5" height="44.4"/>
+	<rect x="802.7" y="264.4" class="st6" width="34.5" height="44.4"/>
+	<rect x="802.7" y="359.9" class="st6" width="34.5" height="44.4"/>
+	<rect x="742.7" y="359.9" class="st6" width="34.5" height="44.4"/>
+	<rect x="641" y="359.9" class="st6" width="34.5" height="44.4"/>
+	<rect x="513.9" y="359.9" class="st6" width="34.5" height="44.4"/>
+	<rect x="414" y="359.9" class="st6" width="34.5" height="44.4"/>
+	<rect x="352.3" y="359.9" class="st6" width="34.5" height="44.4"/>
+	<ellipse class="st6" cx="593.8" cy="211.7" rx="25.4" ry="14.8"/>
+	<rect id="Door_2_" x="575.7" y="359.9" class="st6" width="34.5" height="65"/>
+</g>
+</svg>
